@@ -58,8 +58,8 @@ AUTO_BIO: process.env.AUTO_BIO || "false",
 READ_CMD: process.env.READ_CMD || "false", //කමාන්ඩ් Read වෙන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 AUTO_VOICE: process.env.AUTO_VOICE || "false", //ඔටෝ වොයිස් යන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 MENU: process.env.MENU || "true",
-ANTI_BAD: process.env.ANTI_BAD || "true",
-ANTI_LINK: process.env.ANTI_LINK || "true", //Whatsapp Group ලින්ක් දැම්මාම ඩිලීට් වෙන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
+ANTI_BAD: process.env.ANTI_BAD || "false",
+ANTI_LINK: process.env.ANTI_LINK || "false", //Whatsapp Group ලින්ක් දැම්මාම ඩිලීට් වෙන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39",
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 ALWAYS_ONLINE : process.env.ALWAYS_ONLINE || "false", // හැම වෙලේම ඔන්ලයි ඉන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
